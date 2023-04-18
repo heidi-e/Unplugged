@@ -7,6 +7,7 @@ This is my final group project for DS3000 that explores various machine learning
 # Installation
 To run the jupyter notebook, you will need Python 3 and the following libraries:
 
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -25,6 +26,7 @@ from sklearn.svm import SVR
 from sklearn.metrics import mean_squared_error
 import matplotlib as mpl
 mpl.rcParams.update(mpl.rcParamsDefault)
+```
 
 # Usage
 To start the notebook, simply download and open it through Jupyter Notebook. 
